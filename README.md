@@ -13,7 +13,7 @@ If you just want to test the code you need to install:
 - Image
 
 #### The generated heatmaps look like this
-![heamap_previe](https://github.com/anapt/heatmaps-python2.7/tree/master/outputs/blue-red/final_blue_red.png)
+![heamap_previe](https://raw.githubusercontent.com/anapt/heatmaps-python2.7/master/outputs/blue-red/final_blue_red.png?token=AM9NVsu25m8ozS64rqQ0RzQy01OX0MCPks5Z0sVQwA%3D%3D)
 
 ### How to run the script
 
